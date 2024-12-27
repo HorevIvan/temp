@@ -1,0 +1,652 @@
+{
+    "1": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 21,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "2": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 22,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "3": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 23,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "4": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 24,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "5": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 25,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "6": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 16,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "7": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 17,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "8": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 18,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "9": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 19,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "10": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 20,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "11": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 11,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "12": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 12,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "13": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 13,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "14": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 14,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "15": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 15,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "16": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 6,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "17": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 7,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "18": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 8,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "19": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 9,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "20": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 10,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "21": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 1,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "22": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 2,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "23": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 3,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "24": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 4,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    },
+    "25": {
+        "calculations": {
+            "boreholeNumber": {
+                "prefix": null,
+                "row": null,
+                "value": 5,
+                "postfix": null
+            },
+            "chargeDiameter": 0.15000000596046448,
+            "benchHeight": 20,
+            "overdrill": 0,
+            "depth": 20,
+            "explosiveMass": {
+                "singleSet": {
+                    "value1": 1.20165928549739
+                }
+            },
+            "stemmingLength": {
+                "singleSet": {
+                    "value1": 2
+                }
+            },
+            "explosiveCapacity": 0.600829642748695
+        },
+        "measurements": null
+    }
+}
